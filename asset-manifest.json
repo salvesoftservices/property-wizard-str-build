@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c185d0c7.css",
+    "main.js": "/static/js/main.6b354564.js",
+    "static/js/787.e9ce8a24.chunk.js": "/static/js/787.e9ce8a24.chunk.js",
+    "static/media/trash-cleaning.jpeg": "/static/media/trash-cleaning.25de46fe2a805c5141d1.jpeg",
+    "static/media/kitchen.jpeg": "/static/media/kitchen.09d69b9e8c504d78546d.jpeg",
+    "static/media/big-city.jpg": "/static/media/big-city.af641cbc9c9a873e7844.jpg",
+    "static/media/home-str-1.jpeg": "/static/media/home-str-1.3cd5d7e7bc788f5e0dfe.jpeg",
+    "static/media/expert-management.jpeg": "/static/media/expert-management.f0be4395e361f17055f8.jpeg",
+    "static/media/laundary-service.jpeg": "/static/media/laundary-service.296beffd56042274bfe4.jpeg",
+    "static/media/img-ser1.jpeg": "/static/media/img-ser1.22a2c70ce541ddf70569.jpeg",
+    "static/media/cost-effective.jpg": "/static/media/cost-effective.010f2a30c67c6c179066.jpg",
+    "static/media/cleaning.jpeg": "/static/media/cleaning.85497cc0f68e8959876b.jpeg",
+    "index.html": "/index.html",
+    "main.c185d0c7.css.map": "/static/css/main.c185d0c7.css.map",
+    "main.6b354564.js.map": "/static/js/main.6b354564.js.map",
+    "787.e9ce8a24.chunk.js.map": "/static/js/787.e9ce8a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c185d0c7.css",
+    "static/js/main.6b354564.js"
+  ]
+}
